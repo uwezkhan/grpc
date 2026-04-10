@@ -31,8 +31,8 @@
 #include <stdarg.h>
 #include <stdio.h>
 #include <string.h>
-#include <strsafe.h>
 #include <wchar.h>
+#include <strsafe.h>
 
 #include "src/core/util/string.h"
 #include "src/core/util/tchar.h"
